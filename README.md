@@ -27,4 +27,4 @@ This shlok is from chapter 2 and shlok 44
 
 सम्बन्ध-- किसी बातको पुष्ट करना हो तो पहले उसके दोनों पक्ष सामने रखकर फिर उसको पुष्ट किया जाता है। यहाँ भगवान् निष्कामभावको पुष्ट करना चाहते हैं अतः पीछेके तीन श्लोकोंमें सकामभाववालोंका वर्णन करके अब आगेके श्लोकमें निष्काम होनेकी प्रेरणा करते हैं
 
-Note :- I have to change the parameters due to resource constraints like free gpu provided by google colab which resulted in poor performance. Feel free to change the parameters like increase the max_length_prompt, max_length_answer, max_length, batch_size etc.
+## Note :- I have to change the parameters due to resource constraints like free gpu provided by google colab which resulted in poor performance. Feel free to change the parameters like increase the max_length_prompt, max_length_answer, max_length, batch_size etc.
